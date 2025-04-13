@@ -1,10 +1,10 @@
-**Superstore Sales Performance using Tableau**
+# Superstore Sales Performance using Tableau
 (A Tableau Capstone Project given by upGrad)
 
-**Project Overview**
+## Project Overview
 This project analyse the sales performance of a superstore using Tableau. Various columns provided in the dataset are analysed with the help of visualisation made by tableau. Dashboard provides insights into various key sales metrics.
 
-**Tool Used**
+## Tool Used
 Tableau Desktop Public Edition(Free)
 
 **Folder Structure**
