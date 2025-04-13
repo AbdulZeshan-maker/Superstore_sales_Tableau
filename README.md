@@ -8,15 +8,15 @@ This project analyse the sales performance of a superstore using Tableau. Variou
 **Tableau Desktop Public Edition(Free)**
 
 ## Folder Structure
-**Dataset:** Contains the Sample-Superstore.xls dataset(This dataset is already cleaned and well organised)
-**Dashboard:** Contains Tableau Packaged Workbook named as Book1.twbx
-**Images:** Contains screenshot of Dashboard and all eight views
-**Project Report:** Contains Detailed explanation of Project
-**Question:** Contains all the instructions and all the business requirements of the project
+1) **Dataset:** Contains the Sample-Superstore.xls dataset(This dataset is already cleaned and well organised)
+2) **Dashboard:** Contains Tableau Packaged Workbook named as Book1.twbx
+3) **Images:** Contains screenshot of Dashboard and all eight views
+4) **Project Report:** Contains Detailed explanation of Project
+5) **Question:** Contains all the instructions and all the business requirements of the project
 
 ## Dashboard Preview
 Check out this Tableau Public Website in which this dashboard has been uploaded. Tableau public website is a free platform to upload and interact with dashboard.
-**Link:** https://public.tableau.com/views/Book2_17428306839780/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link.
+Link: https://public.tableau.com/views/Book2_17428306839780/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link.
 **Note:** You can also open the .twbx file your Tableau Desktop and interact with the Dashboard.
 
 ## How to View the Dashboard
