@@ -17,7 +17,7 @@ This project analyse the sales performance of a superstore using Tableau. Variou
 ## Dashboard Preview
 Check out this Tableau Public Website in which this dashboard has been uploaded. Tableau public website is a free platform to upload and interact with dashboard.
 Link: https://public.tableau.com/views/Book2_17428306839780/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link.
-**Note:** You can also open the .twbx file your Tableau Desktop and interact with the Dashboard.
+Note: You can also open the .twbx file your Tableau Desktop and interact with the Dashboard.
 
 ## How to View the Dashboard
 1. Download the `.twbx` file from the **Dashboard** folder.
