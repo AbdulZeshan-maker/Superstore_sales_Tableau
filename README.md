@@ -29,7 +29,8 @@ All the insights are present in the Project Reprt folder.
 
 ## Contact
 For any questions, feel free to connect with me on Linkedin
-Link: https://www.linkedin.com/in/abdul-zeshan-3394b4317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYKtSJ6ZETleqNCU4lrC%2B3Q%3D%3D
+Link:  
+https://www.linkedin.com/in/abdul-zeshan-3394b4317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYKtSJ6ZETleqNCU4lrC%2B3Q%3D%3D
 
 
 
